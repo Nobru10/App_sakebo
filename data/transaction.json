@@ -1,0 +1,83 @@
+[
+    {
+        "istante": "2024-04-24",
+        "id": "37G293582P944431J",
+        "orario": "21:57:53",
+        "categoria": "optional",
+        "spesa": "sim",
+        "value": 50.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-04",
+        "id": "8VG84742E89589700",
+        "orario": "15:46:39",
+        "categoria": "prima necessita",
+        "spesa": "gelato",
+        "value": 10.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-04",
+        "id": "2MY85828NT788802R",
+        "orario": "15:47:03",
+        "categoria": "optional",
+        "spesa": "telefono",
+        "value": 50.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-06",
+        "id": "8VG84742E89589700",
+        "orario": "22:48:51",
+        "categoria": "prima necessita",
+        "spesa": "pranzo",
+        "value": 10.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-07",
+        "id": "2MY85828NT788802R",
+        "orario": "10:43:41",
+        "categoria": "prima necessita",
+        "spesa": "cioccolato",
+        "value": 50.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-07",
+        "id": "8VG84742E89589700",
+        "orario": "10:56:18",
+        "categoria": "prima necessita",
+        "spesa": "pollo",
+        "value": 10.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-07",
+        "id": "8VG84742E89589700",
+        "orario": "11:51:44",
+        "categoria": "optional",
+        "spesa": "hahahaha",
+        "value": 10.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-07",
+        "id": "2MY85828NT788802R",
+        "orario": "11:52:48",
+        "categoria": "extra e imprevisti",
+        "spesa": "cipolla",
+        "value": 50.0,
+        "modificata": 0
+    },
+    {
+        "istante": "2024-05-07",
+        "id": "8VG84742E89589700",
+        "orario": "14:10:16",
+        "categoria": "cultura e tempo libero",
+        "spesa": "cip",
+        "value": 10.0,
+        "modificata": 0
+    }
+]
